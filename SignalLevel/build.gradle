@@ -38,7 +38,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.x913'
                 artifactId = 'SignalLevel'
-                version = '1.0'
+                version = '1.2'
             }
         }
     }
