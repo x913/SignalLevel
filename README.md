@@ -1,5 +1,7 @@
 # SignalLevel
 
+![link](https://jitpack.io/v/x913/SignalLevel.svg)
+
 SignalLevel is an Android library for displaying signal level like control.
 
 ## Features
