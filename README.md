@@ -22,7 +22,18 @@ SignalLevel is an Android library for displaying signal level like control.
 
 ## Quick start
 
-**1)** Add this library as a dependency in your's app build.gradle file
+**0)**
+
+```gradle
+    allprojects {
+        repositories {
+            ...
+            maven { url 'https://jitpack.io' }
+        }
+    }
+```
+
+**1)** Add this library as a dependency in yours app build.gradle file
 
 ```gradle
 dependencies {
