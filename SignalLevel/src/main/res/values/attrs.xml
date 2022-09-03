@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignalLevelView">
+        <attr name="highLevelColor" format="color"/>
+        <attr name="mediumLevelColor" format="color"/>
+        <attr name="lowLevelColor" format="color"/>
+        <attr name="emptyLevelColor" format="color"/>
+        <attr name="signalLevel" format="float"/>
+        <attr name="signalBarCorners" format="float"/>
+        <attr name="signalBarsCount" format="integer"/>
+        <attr name="signalBarsGap" format="integer"/>
+    </declare-styleable>
+
+    <attr name="signalLevelStyle" format="reference" />
+
+</resources>

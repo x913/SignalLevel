@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignalLevel</string>
+    <string name="bars_count">Bars count</string>
+    <string name="bars_gap">Bars gap</string>
+    <string name="signal_level">Signal Level</string>
+    <string name="corners">Corners</string>
+</resources>
