@@ -39,7 +39,7 @@ SignalLevel is an Android library for displaying signal level like control.
 
 ```gradle
 dependencies {
-  implementation 'com.github.x913:signal-level:1.2'
+  implementation 'com.github.x913:SignalLevel:1.2'
 }
 ```
 
